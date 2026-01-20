@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Dog face favicon - amber/golden colors -->
+
+  <!-- Face -->
+  <ellipse cx="16" cy="17" rx="12" ry="11" fill="#f59e0b"/>
+
+  <!-- Left ear -->
+  <ellipse cx="6" cy="8" rx="4" ry="6" fill="#d97706" transform="rotate(-15 6 8)"/>
+
+  <!-- Right ear -->
+  <ellipse cx="26" cy="8" rx="4" ry="6" fill="#d97706" transform="rotate(15 26 8)"/>
+
+  <!-- Left eye -->
+  <circle cx="11" cy="15" r="2.5" fill="#292524"/>
+  <circle cx="10.5" cy="14" r="1" fill="white"/>
+
+  <!-- Right eye -->
+  <circle cx="21" cy="15" r="2.5" fill="#292524"/>
+  <circle cx="20.5" cy="14" r="1" fill="white"/>
+
+  <!-- Nose -->
+  <ellipse cx="16" cy="21" rx="2.5" ry="2" fill="#292524"/>
+
+  <!-- Tongue -->
+  <ellipse cx="16" cy="26" rx="2" ry="3" fill="#f472b6"/>
+</svg>
