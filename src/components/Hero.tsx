@@ -88,10 +88,10 @@ export default function Hero() {
         </div>
 
         {/* CTA */}
-        <button className="group relative inline-flex items-center gap-3 bg-amber-500 hover:bg-amber-600 text-white font-display font-semibold text-xl px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-200 hover:-translate-y-0.5">
+        <a href="https://app.jabrium.com" className="group relative inline-flex items-center gap-3 bg-amber-500 hover:bg-amber-600 text-white font-display font-semibold text-xl px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-200 hover:-translate-y-0.5">
           Start training
           <span className="group-hover:translate-x-1 transition-transform duration-200">→</span>
-        </button>
+        </a>
 
         <p className="mt-6 text-warmGray-500 font-body text-sm">
           Free with Jabrium
