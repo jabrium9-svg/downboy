@@ -103,7 +103,7 @@ export default function Promise() {
 
         {/* Final CTA */}
         <div className="text-center">
-          <a href="https://app.jabrium.com" className="group relative inline-flex items-center gap-3 bg-amber-500 hover:bg-amber-600 text-white font-display font-semibold text-xl px-10 py-5 rounded-full shadow-lg hover:shadow-xl transition-all duration-200 hover:-translate-y-0.5">
+          <a href="https://app.jabrium.com?source=downboy&ref=website" className="group relative inline-flex items-center gap-3 bg-amber-500 hover:bg-amber-600 text-white font-display font-semibold text-xl px-10 py-5 rounded-full shadow-lg hover:shadow-xl transition-all duration-200 hover:-translate-y-0.5">
             Start training
             <span className="group-hover:translate-x-1 transition-transform duration-200">→</span>
           </a>
